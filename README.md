@@ -23,7 +23,8 @@
   
   📍 <strong>Location:</strong> India
   <br>
-  <br>
+  
+  ![](https://komarev.com/ghpvc/?username=AsmitaMishra24&style=for-the-badge&label=PROFILE+VIEWS)
 </p>
 </div>
 <hr></hr>
@@ -179,6 +180,3 @@
 <p align="center">
  <img src="https://github.com/AsmitaMishra24/Readme/blob/output/github-contribution-grid-snake-dark.svg" alt="light">
 </p>
-
-![](https://komarev.com/ghpvc/?username=AsmitaMishra24&style=for-the-badge&label=PROFILE+VIEWS)
-
