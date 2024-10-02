@@ -22,6 +22,7 @@
   🌎 <strong>Languages I know:</strong> English, Hindi.
   
   📍 <strong>Location:</strong> India
+  <br>
 </p>
 </div>
 <hr></hr>
