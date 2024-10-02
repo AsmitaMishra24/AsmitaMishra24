@@ -5,7 +5,7 @@
   <b>About Me</b>
 </h2>
 <div>
-<img display="flex" align="right" justify-content="flex-end" width="450" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img display="flex" align="right" justify-content="flex-end" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 <p align="left">
   <br>
