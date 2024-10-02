@@ -23,6 +23,7 @@
   
   📍 <strong>Location:</strong> India
   <br>
+  <br>
 </p>
 </div>
 <hr></hr>
