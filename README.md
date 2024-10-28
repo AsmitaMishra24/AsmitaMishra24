@@ -175,7 +175,13 @@
 </div>
 </div>
 </details>
-
+<details>	
+ <summary><b>Hacktoberfest'24 🍁</b></summary><br>
+<div style='display:flex; align-items:center; align='center'><a href="https://www.holopin.io/@asmitamishra24#">
+<img src="https://holopin.me/asmitamishra24" />
+</a>
+</div>
+</details>
 <hr></hr>
 
 <p align="center">
