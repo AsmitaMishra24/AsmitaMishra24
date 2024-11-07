@@ -15,7 +15,7 @@
   
   💬 <strong>Ask Me About:</strong> GCP, AWS, Java, Open Source, or anything.
   
-  📫 <strong>Reach Me At:</strong> [Gmail](mailto:asmitamishra243@gmail.com) | [LinkedIn](https://www.linkedin.com/in/asmitamishra1/)
+  📫 <strong>Reach Me At:</strong> [LinkedIn](https://www.linkedin.com/in/asmitamishra1/)
   
   ⚡ <strong>About Me:</strong> _A curious soul, quietly striving for perfection._
   
