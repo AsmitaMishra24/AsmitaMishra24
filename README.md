@@ -9,7 +9,7 @@
 
 <p align="left">
   <br>
-  🔭 <strong>Currently Working As:</strong> Mentor@WoB'24
+  🔭 <strong>Currently Working As:</strong> Research Intern
   
   🌱 <strong>Currently learning:</strong> Cloud Computing | DSA(Java)
   
