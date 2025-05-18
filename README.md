@@ -9,7 +9,7 @@
 
 <p align="left">
   <br>
-  🔭 <strong>Currently Working As:</strong> Research Intern
+  🔭 <strong>Currently Working As:</strong> Open-Source Contributor
   
   🌱 <strong>Currently learning:</strong> Cloud Computing | DSA(Java)
   
@@ -140,6 +140,9 @@
   </a>
  <a href="https://dev.to/asmita_mishra" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+</a>
+  <a href="https://leetcode.com/u/asmitamishra24/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
 </a>
 </div>
 <hr></hr>
