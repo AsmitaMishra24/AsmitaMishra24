@@ -187,7 +187,10 @@
 </details>
 <hr></hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AsmitaMishra24/Readme/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake animation" style="max-width: 100%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsmitaMishra24/Readme/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/AsmitaMishra24/Readme/output/snake-light.svg" alt="GitHub Snake animation">
+  </picture>
 </p>
 
 
