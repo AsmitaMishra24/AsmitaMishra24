@@ -188,6 +188,7 @@
 <hr></hr>
 
 <p align="center">
-  <img src="https://github.com/AsmitaMishra24/Readme/blob/output/github-contribution-grid-snake-dark.svg" alt="light">
+  <img src="https://raw.githubusercontent.com/AsmitaMishra24/Readme/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation">
 </p>
+
 
