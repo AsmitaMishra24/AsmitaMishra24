@@ -187,7 +187,7 @@
 </details>
 <hr></hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AsmitaMishra24/AsmitaMishra24/output/github-contribution-grid-snake2.svg" alt="GitHub Snake animation">
+  <img src="https://github.com/AsmitaMishra24/AsmitaMishra24/blob/output/snake-dark.svg" alt="GitHub Snake animation">
 </p>
 
 
